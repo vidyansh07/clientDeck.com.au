@@ -1,0 +1,6 @@
+# robots.txt for ClientDeck
+# EDIT HERE: update the domain if it changes.
+User-agent: *
+Allow: /
+
+Sitemap: https://clientdeck.com.au/sitemap.xml
